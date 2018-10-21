@@ -1,6 +1,6 @@
-# Watson sample chatbot
+# Watson sample ZECA - ChatBot
 
-A simple chatbot using IBM Watson and Node.js
+ChatBot using IBM Watson and Node.js
 
 ![chat-example](http://amigozeca.pt/images/chatbot.gif)
 
